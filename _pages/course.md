@@ -14,6 +14,7 @@ author_profile: true
 + UA329 Honors Analysis II 
 + UA348 Honors Algebra I 
 + UA396 [Honors Numerical Analysis](https://cims.nyu.edu/~oneil/courses/sp23-math396/)
++ UA394 [Honor II](https://math.nyu.edu/~greengar/exploringode/exploringode.html)
 + GA2902 Stochastic Calculus
 + GA2430 Real Variables I
 + GA2911 Probability Theory I
