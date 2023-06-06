@@ -10,13 +10,13 @@ main:
   ##url: /teaching/    
     
   ##title: "Portfolio"
-    url: /portfolio/
+  ##url: /portfolio/
         
-  ##title: "Course"
+    title: "Course"
     url: /course/
     
   - title: "CV"
     url: /cv/
     
   ##title: "Guide"
-    url: /markdown/
+  ##url: /markdown/
