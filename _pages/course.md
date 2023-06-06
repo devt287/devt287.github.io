@@ -7,7 +7,7 @@ author_profile: true
 ---
 ## Mathematics
 + UA120 Discrete Math
-+ UA148 [Honor Linear Algebra] (https://maplenormandy.github.io/files/MATH148-001_S2022_syllabus.pdf) 
++ UA148 [Honor Linear Algebra] (https://devt287.github.io/files/MATH148-001_S2022_syllabus.pdf) 
 + UA129 Honor Calculus 3
 + UA233	Theory of Probability
 + UA328 Honors Analysis I
