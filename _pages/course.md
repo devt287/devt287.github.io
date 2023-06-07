@@ -1,10 +1,11 @@
 ---
 layout: archive
-title: "Course"
+title: "Course(up to 2023 fall semester)"
 permalink: /course/
 author_profile: true
 
 ---
+
 ## Mathematics
 + UA120 Discrete Math
 + UA148 [Honor Linear Algebra](https://devt287.github.io/files/MATH148-001_S2022_syllabus.pdf) 
