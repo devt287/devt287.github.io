@@ -7,4 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, my name is Devin Tang, an incoming junior student in Honor mathematics and computer science in NYU. My research interest lies on statistics (Biostatistics), bayesian machine learning, and compuational neuroscience. i am currently working with Prof.[David McLaughlin](https://math.nyu.edu/~dmac/) on computational neuroscience on STDP and BTSP. Also, i am studying under the supervision of Dr.MingTao Xia on machine learning in Biology
+Hello, my name is Devin Tang. I'm a junior student majoring in Honor Mathematics and Computer Science at New York University. My research interests lies in biostatistics, Bayesian machine learning, and computational neuroscience.
+
+Currently, I am working with Professor [David McLaughlin](https://math.nyu.edu/~dmac/) on computational neuroscience research related to STDP (Spike Timing Dependent Plasticity） and BTSP (Behavioral Time Scale Plasticity）. I am also studying machine learning in biological PDE under the supervision of Dr. MingTao Xia.
