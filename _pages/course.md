@@ -30,4 +30,4 @@ author_profile: true
 + UA201  Computer System Organization
 + UA310  Basic Algorithms
 + UA9473 Fundamentals of Machine Learning 
-+ GA3033 Spec Top Computer SCI: Bayesian Machine Learning
+
