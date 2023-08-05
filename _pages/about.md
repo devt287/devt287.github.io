@@ -9,4 +9,6 @@ redirect_from:
 ---
 Hello, my name is Devin Tang. I'm a junior student majoring in Honor Mathematics and Computer Science at New York University. My research interests lies in biostatistics, Bayesian machine learning, and computational neuroscience.
 
-Currently, I am working with Professor [David McLaughlin](https://math.nyu.edu/~dmac/) on computational neuroscience research related to STDP (Spike Timing Dependent Plasticity） and BTSP (Behavioral Time Scale Plasticity）. I am also studying machine learning in biological PDE under the supervision of Dr. MingTao Xia.
+Currently, I am working with Professor [David McLaughlin](https://math.nyu.edu/~dmac/) on computational neuroscience research related to STDP (Spike Timing Dependent Plasticity） and BTSP (Behavioral Time Scale Plasticity）. I am also studying Dynamics in auditory perception with Professor [John Rinzel](https://math.nyu.edu/people/profiles/RINZEL_John.html)
+
+Besides academic, i enjoy playing basketball, soccer and batminton, and i am a huge fan of [Real Madrid](https://www.realmadrid.com/en). I also love hiking, angling，and hip-hop music.
