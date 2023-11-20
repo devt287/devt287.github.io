@@ -24,7 +24,8 @@ author_profile: true
 + GA2911 Probability Theory I
 
 ## Neuroscience
-+ MATH-GA.2420 Advanced Topics In Math Physiology: Dynamics Of Neuronal Networks (audit)
++ MATH-GA.2420 Advanced Topics In Math Physiology: Dynamics Of Neuronal Networks 
++ 
 ## Computer Science
 + UA101  Intro to Computer Science
 + UA102  Data Structures
