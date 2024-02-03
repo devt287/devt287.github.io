@@ -25,12 +25,12 @@ author_profile: true
 + GA2911 [Probability Theory I](https://math.nyu.edu/~bourgade/P2023/P2023.html)
 + GA2912 [Probability Theory II](https://cims.nyu.edu/~holden/s24.html)
 + GA2012 [Advanced Topics in Numerical Analysis:Convex and Nonsmooth Optimization](https://cs.nyu.edu/courses/spring24/CSCI-GA.2945-002/)
-+ 
+  
 
 
 ## Neuroscience
 + MATH-GA.2420 Advanced Topics In Math Physiology: Dynamics Of Neuronal Networks 
-+ 
+  
 ## Computer Science
 + UA101  Intro to Computer Science
 + UA102  Data Structures
