@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Course(up to 2023 fall semester)"
+title: "Course"
 permalink: /course/
 author_profile: true
 
@@ -21,7 +21,12 @@ author_profile: true
 + DSGA3001 [Applied statistics](https://yanjunhan2021.github.io/courses/applied_stats/index.html)
 + GA2902 Stochastic Calculus
 + GA2430 Real Variables I(audit)
-+ GA2911 Probability Theory I
++ GA2440 Real Variables II
++ GA2911 [Probability Theory I](https://math.nyu.edu/~bourgade/P2023/P2023.html)
++ GA2912 [Probability Theory II](https://cims.nyu.edu/~holden/s24.html)
++ GA2012 [Advanced Topics in Numerical Analysis:Convex and Nonsmooth Optimization](https://cs.nyu.edu/courses/spring24/CSCI-GA.2945-002/)
++ 
+
 
 ## Neuroscience
 + MATH-GA.2420 Advanced Topics In Math Physiology: Dynamics Of Neuronal Networks 
@@ -30,6 +35,9 @@ author_profile: true
 + UA101  Intro to Computer Science
 + UA102  Data Structures
 + UA201  Computer System Organization
++ UA202 Operating System
 + UA310  Basic Algorithms
-+ UA9473 Fundamentals of Machine Learning 
++ UA9473 Fundamentals of Machine Learning
++ UA521 Undergraduate Research
+
 
