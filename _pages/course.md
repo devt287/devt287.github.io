@@ -28,7 +28,8 @@ author_profile: true
 + GA2012 [Advanced Topics in Numerical Analysis:Convex and Nonsmooth Optimization](https://cs.nyu.edu/courses/spring24/CSCI-GA.2945-002/)
 + GA2490 Introduction to Partial Differential Equations
 + GA2450 Complex Variables I
-  
++ GA2840 Advanced Topics In Applied Math:Generative Models
++ GA2660 Advanced Topics In Analysis:Dynamical System.
 
 
 ## Neuroscience
