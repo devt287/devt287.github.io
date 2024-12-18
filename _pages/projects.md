@@ -10,4 +10,6 @@ author_profile: true
 
 ## Fine-grained Analysis for the Phase Transition of Moment Matching, with Application in Infinite-Armed Bandit Problem
 + [Project Link](https://devt287.github.io/files/SURE_presentation (6).pdf)
+## Generalization bound for neural network
++ [Project Link](https://devt287.github.io/files/FML_Project.pdf)
 
